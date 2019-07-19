@@ -1,6 +1,6 @@
 {
   "name": "hook-email",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Husky hook for checking author email address",
   "main": "index.js",
   "scripts": {
